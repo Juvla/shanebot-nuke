@@ -1,0 +1,12 @@
+sample/Pipfile.lock
+build
+dist
+**/__pycache__/
+**/*.pyc
+*.egg-info
+.mypy_cache
+.python-version
+.venv*
+.eggs
+.coverage
+.ycm_extra_conf.py
